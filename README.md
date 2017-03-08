@@ -1,5 +1,5 @@
 # Ex_KadanesAlgorithm
-Find subarray with max sum in the given array
+Find subarray with the max sum.
 
     @Test
     public void test() {
