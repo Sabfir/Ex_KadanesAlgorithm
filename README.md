@@ -42,3 +42,11 @@ Find subarray with max sum in the given array
         System.out.println("Maximum contiguous range is: " + start + " : " + end);
         return max_so_far;
     }
+    
+// the output is 
+Array: -2, -3, 4, -1, -2, 1, 5, -3, -1, -5, 1, 7, -1, 1, 
+Maximum contiguous range is: 10 : 11
+Maximum contiguous sum is 8
+Array: -2, -3, -1, -2, -3, 
+Maximum contiguous range is: 2 : 2
+Maximum contiguous sum is -1
